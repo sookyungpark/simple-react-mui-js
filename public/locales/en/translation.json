@@ -1,0 +1,14 @@
+{
+  "sidebar_menu_dashboard": "Dashboard",
+  "sidebar_menu_orders": "Orders",
+
+  "orders_table_id": "ID",
+  "orders_table_user_id": "User ID",
+  "orders_table_status": "Status",
+  "orders_table_created_at": "Created At",
+  "orders_table_updated_at": "Updated At",
+  "orders_table_delivery_started_at": "Delivery Started At",
+  "orders_table_completed_at": "Completed At",
+
+  "get_orders_failure": "Loading orders failed"
+}

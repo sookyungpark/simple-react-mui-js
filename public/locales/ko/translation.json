@@ -1,0 +1,14 @@
+{
+  "sidebar_menu_dashboard": "대시보드",
+  "sidebar_menu_orders": "주문",
+
+  "orders_table_id": "아이디",
+  "orders_table_user_id": "유저 아이디",
+  "orders_table_status": "상태",
+  "orders_table_created_at": "생성시간",
+  "orders_table_updated_at": "갱신시간",
+  "orders_table_delivery_started_at": "배달 시작시간",
+  "orders_table_completed_at": "완료시간",
+
+  "get_orders_failure": "주문목록 조회 실패"
+}
